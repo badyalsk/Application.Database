@@ -1,0 +1,8 @@
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Release\Application.Database.exe.config
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Release\Application.Database.exe
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Release\Application.Database.pdb
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Release\DbUp.dll
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Release\DbUp.pdb
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Release\DbUp.xml
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\obj\Release\Application.Database.exe
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\obj\Release\Application.Database.pdb

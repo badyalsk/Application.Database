@@ -1,0 +1,9 @@
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Debug\Application.Database.exe.config
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Debug\Application.Database.exe
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Debug\Application.Database.pdb
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Debug\DbUp.dll
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Debug\DbUp.pdb
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\bin\Debug\DbUp.xml
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\obj\Debug\Application.Database.csprojResolveAssemblyReference.cache
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\obj\Debug\Application.Database.exe
+E:\D_Drive\lEARNING\LearningProjects\Application.Database\Application.Database\obj\Debug\Application.Database.pdb
